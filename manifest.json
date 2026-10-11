@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "helm-kubectl-secrets",
+  "versions": [
+    {
+      "commit": "9e42495461a88046d5b40cf5619d37eb96c32b70",
+      "parsed_at": "2026-10-11T20:47:38.971223+00:00",
+      "filetree": "filetree/9e42495461a88046d5b40cf5619d37eb96c32b70.nq.gz",
+      "blobs": [
+        "blob/23aa9cb88e1e2b2a46f1e53db5bc2dc04015f94a.nq.gz",
+        "blob/e2f0e027557b7d7efd2433a0ea0ed59d3466cb65.nq.gz",
+        "blob/e3b7145cc34bb212aafde028d18792e130208f0a.nq.gz",
+        "blob/b0342ae5858f66f07bf10b263cfd9307453c6580.nq.gz",
+        "blob/104289d689d0bd425e4ca1ab5b598c37cf0aab2b.nq.gz",
+        "blob/efd42459dc75ee9aa573b5d10937f67957c63d90.nq.gz",
+        "blob/5abe6dda1635e58a39b25ccb0a0ec3fd78c3160f.nq.gz",
+        "blob/2c5f07297d616a92b0f52d122348b1950d3a69e9.nq.gz",
+        "blob/9ed9f895d4597396bcba6c0ea3c23b3d6ca0dd4a.nq.gz",
+        "blob/0cc95f3069bac4c36b0c0c862c47e0fac016d942.nq.gz",
+        "blob/b2ec497969902f810e2659d271dabe025e8a442d.nq.gz",
+        "blob/aba498e6517a00f259ad001378b43b9930352c8a.nq.gz",
+        "blob/190e8d5726d3ab21da82a53b5458b08d96c02f31.nq.gz",
+        "blob/041744dac52a153cc35de2a84e541aebd2885c1f.nq.gz",
+        "blob/f098fa4430cd15d7ab712d093ff6aac9178f85d3.nq.gz",
+        "blob/c1043f00fb48987c66f209501dcd455946e370cf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
