@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "helm-kubectl-secrets",
+  "versions": [
+    {
+      "commit": "9e42495461a88046d5b40cf5619d37eb96c32b70",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:49:17.703523+00:00"
+    }
+  ]
+}
